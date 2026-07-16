@@ -1,0 +1,12 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "Tiny Node.js app for a CI/CD demo",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
